@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+h2:hover {
+    color: green;
+}
+
+h1:hover {
+    color: green;
+}
+body {
+    background-image: radial-gradient(violet, indigo);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: 8px dotted rgb(102, 255, 0);
+}
